@@ -1,0 +1,7 @@
+class shruti
+{
+ public static void main(String args[])
+{
+   System.ouyt.println("Hello");
+}
+}
